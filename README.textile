@@ -2,7 +2,7 @@ h1. iTunesExporter v0.1
 
 Perl script that creates a .txt with your iTunes collection.
 
-h2 usage
+h2. usage
 
 . go to your iTunes and select 'Music' under the 'Library' section;
 . follow File -> Library -> Export Library...;
