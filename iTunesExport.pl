@@ -3,8 +3,8 @@
 use strict;
 use warnings;
 
-require './xpath_test.pl';
-require './convert_xml.pl';
+require './parseXPath.pl';
+require './converterXML.pl';
 
 my $numArgs = $#ARGV + 1;
 
