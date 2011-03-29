@@ -17,8 +17,6 @@ if($numArgs==0) {
 	usage()
 }
 
-
-
 my $input = $ARGV[0];
 my $output = "output/converted.xml";
 my $outputFinal = "output/albumList.txt";

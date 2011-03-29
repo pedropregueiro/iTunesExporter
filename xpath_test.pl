@@ -5,6 +5,8 @@ use warnings;
 use XML::XPath;
 use XML::XPath::XMLParser;
 use Encode;
+use Album;
+use Track;
 
 our %hashMap = ();
 
@@ -22,6 +24,46 @@ sub printHash {
 	return $whole;
 }
 
+sub findAttribute {
+	my $dict = shift;
+	my $attrib = shift;
+	return $dict->find('key[@id="' . $attrib . '"]')->string_value;
+}
+
+sub fillTrack {
+	
+	my $dict = shift;
+	my $track = new Track();
+	
+	my $trackId = findAttribute($dict,"Track ID");
+	my $trackName = findAttribute($dict,"Name");
+	my $artist = findAttribute($dict, "Artist");
+	my $album = findAttribute($dict, "Album");
+	my $genre = findAttribute($dict, "Genre");
+	my $totalTime = findAttribute($dict, "Total Time");
+	my $trackNumber = findAttribute($dict, "Track Number");
+	my $playCount = findAttribute($dict, "Play Count");
+	my $rating = findAttribute($dict, "Rating");
+	$track = new Track($trackId, $trackName, $artist, $album, $genre, $totalTime, $trackNumber, $playCount, $rating);
+
+	# debug purpose only
+	#$track->printTrackInfo();
+	
+	return $track;
+}
+
+sub fillList {
+	my @list=();
+	#my $input = shift;
+	my $input = "output/converted.xml";
+	my $xp = XML::XPath->new(filename => $input);
+
+	#foreach track
+	foreach my $dict ($xp->find('/plist/dict/dict/dict')->get_nodelist) {	
+		push(@list, fillTrack($dict));
+	}
+}
+
 sub createHash {
 	my $input = shift;
 	my $xp = XML::XPath->new(filename => $input);
@@ -32,5 +74,7 @@ sub createHash {
 	}
 	return %hashMap;
 }
+
+fillList();
 
 1;
