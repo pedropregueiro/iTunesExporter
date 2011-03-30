@@ -21,7 +21,7 @@ if(!$in) {
 }
 
 if(!$out) {
-	$out = "albumList.txt";
+	$out = "output/albumList.txt";
 }
 
 main();
@@ -48,7 +48,7 @@ sub createHashMap {
 sub createOutput {
 	print "creating the output file :: $outputFinal...\n" if $verbose;
 	open OUT, ">", $outputFinal or die $!;
-	print OUT printHash(%hash) if $verbose;
+	print OUT printHash(%hash)
 }
 
 sub deleteTemp {
