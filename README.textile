@@ -6,13 +6,16 @@ h2. installation
 
 * just fork the project and take a look at the *dependencies* section below.
 
-h2. usage
+h2. pre-usage
 
 * go to your iTunes and select 'Music' under the 'Library' section;
 * follow File -> Library -> Export Library...;
 * save as a .xml file (example: music.xml);
-* run 'perl iTunesExporter.pl music.xml';
-* go to the output directory created and check the albumList.txt.
+
+h2. usage
+
+* perl iTunesExport.pl -i input_name [ -o output_name ] [ -v | --verbose ]
+** note: if you don't specify an output file, 'albumList.txt' will be automatically created in the output folder
 
 h2. dependencies
 
