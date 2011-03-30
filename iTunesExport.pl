@@ -1,66 +1,75 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
-require './parseXPath.pl';
-require './converterXML.pl';
-
+use Getopt::Long;
+use lib './modules';
+use ParseXPath;
 
 my $numArgs = $#ARGV + 1;
 our $input = "";
-our $output = "";
+our $outputTemp = "";
 our $outputFinal = "";
 our %hash = ();
+my $verbose = '';
+my $in = '';
+my $out = '';
 
-sub usage {
-	print "\nusage:\n\tperl iTunesExport.pl <input_file>\n\n";
-	exit();
+GetOptions ('v|verbose' => \$verbose, 'i|in=s' => \$in, 'o|out=s' => \$out);
+
+if(!$in) {
+	usage();
 }
 
-if($numArgs==0) {
-	usage()
+if(!$out) {
+	$out = "albumList.txt";
 }
 
 main();
 
-sub init {
-	$input = $ARGV[0];
-	$output = "output/converted.xml";
-	$outputFinal = "output/albumList.txt";
-	my $dir = 'output';
-	unless(-d $dir){
-    	mkdir $dir or die;
-	}
+sub usage {
+	print "\nusage:\n\tperl iTunesExport.pl -i input_name [-o output_name] [-v | --verbose]\n\n";
+	exit();
 }
 
-sub convertXML {
-	print "converting xml file...\n";
-	&convert($input, $output);
-	print "file converted!\n";
+sub init {
+	$input = $in;
+	$outputFinal = $out;
+	$outputTemp = "converted.xml";
 }
 
 
 sub createHashMap {
-	print "creating hashMap for your music...\n";
-	%hash = &createHash($output);
-	print "hashMap created!\n";
+	print "creating hashMap for your music...\n" if $verbose;
+	%hash = createHash($outputTemp);
+	print "hashMap created!\n" if $verbose;
 }
 
 
-sub createOutput{
-	print "creating the output file :: $outputFinal...\n";
+sub createOutput {
+	print "creating the output file :: $outputFinal...\n" if $verbose;
 	open OUT, ">", $outputFinal or die $!;
-	print OUT &printHash(%hash);
+	print OUT printHash(%hash) if $verbose;
 }
 
+sub deleteTemp {
+	unlink($outputTemp);
+}
+
+sub convert {
+	print "converting xml file...\n" if $verbose;
+	convertXML($input, $outputTemp);
+	print "file converted!\n" if $verbose;
+}
 
 sub main {
 	my $start_run = time();
 	init();
-	convertXML();
+	convert();
 	createHashMap();
 	createOutput();
+	deleteTemp($outputTemp);
 	my $end_run = time();
 	my $runtime = $end_run - $start_run;
-	print "process completed in $runtime seconds\n";
+	print "process completed in $runtime seconds\n" if $verbose;
 }
 
