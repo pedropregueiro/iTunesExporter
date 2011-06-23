@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key id="Major Version" type="integer">1</key>
+	<key id="Minor Version" type="integer">1</key>
+	<key id="Application Version" type="string">10.1.2</key>
+	<key id="Features" type="integer">5</key>
+	<key>Show Content Ratings</key><true/>
+	<key id="Music Folder" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/</key>
+	<key id="Library Persistent ID" type="string">C16498F8A664F773</key>
+	<key>Tracks</key>
+	<dict>
+		<key>875</key>
+		<dict>
+			<key id="Track ID" type="integer">1693</key>
+			<key id="Name" type="string">All at Once </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3532777</key>
+			<key id="Total Time" type="integer">219167</key>
+			<key id="Track Number" type="integer">1</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:10Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3377859050</key>
+			<key id="Play Date UTC" type="date">2011-01-14T13:10:50Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2010-02-07T12:58:02Z</key>
+			<key id="Normalization" type="integer">493</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8625</key>
+			<key id="Track Type" type="string">File</key>
+		</dict>
+		<key>877</key>
+		<dict>
+			<key id="Track ID" type="integer">877</key>
+			<key id="Name" type="string">Hunter</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4460200</key>
+			<key id="Total Time" type="integer">244767</key>
+			<key id="Track Number" type="integer">2</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:10Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">145</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">10</key>
+			<key id="Play Date" type="integer">3383063475</key>
+			<key id="Play Date UTC" type="date">2011-03-15T18:51:15Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">1889</key>
+			<key id="Persistent ID" type="string">9A6BD747B867125D</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/02%20Hunter.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>879</key>
+		<dict>
+			<key id="Track ID" type="integer">879</key>
+			<key id="Name" type="string">Nylon Smile</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4369990</key>
+			<key id="Total Time" type="integer">205949</key>
+			<key id="Track Number" type="integer">3</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:11Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">169</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">10</key>
+			<key id="Play Date" type="integer">3381989293</key>
+			<key id="Play Date UTC" type="date">2011-03-03T08:28:13Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">1968</key>
+			<key id="Persistent ID" type="string">9A6BD747B867125E</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/03%20Nylon%20Smile.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>881</key>
+		<dict>
+			<key id="Track ID" type="integer">881</key>
+			<key id="Name" type="string">The Rip</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">5925520</key>
+			<key id="Total Time" type="integer">276976</key>
+			<key id="Track Number" type="integer">4</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:13Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">171</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">5</key>
+			<key id="Play Date" type="integer">3382001621</key>
+			<key id="Play Date UTC" type="date">2011-03-03T11:53:41Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">1587</key>
+			<key id="Sort Name" type="string">Rip</key>
+			<key id="Persistent ID" type="string">9A6BD747B867125F</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/04%20The%20Rip.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>883</key>
+		<dict>
+			<key id="Track ID" type="integer">883</key>
+			<key id="Name" type="string">Plastic</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4367537</key>
+			<key id="Total Time" type="integer">213655</key>
+			<key id="Track Number" type="integer">5</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:15Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">163</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3383071034</key>
+			<key id="Play Date UTC" type="date">2011-03-15T20:57:14Z</key>
+			<key id="Skip Count" type="integer">2</key>
+			<key id="Skip Date" type="date">2010-12-25T19:24:12Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">3166</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671260</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/05%20Plastic.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>885</key>
+		<dict>
+			<key id="Track ID" type="integer">885</key>
+			<key id="Name" type="string">We Carry On</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">8889650</key>
+			<key id="Total Time" type="integer">393769</key>
+			<key id="Track Number" type="integer">6</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:17Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">180</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">13</key>
+			<key id="Play Date" type="integer">3383051811</key>
+			<key id="Play Date UTC" type="date">2011-03-15T15:36:51Z</key>
+			<key id="Skip Count" type="integer">3</key>
+			<key id="Skip Date" type="date">2010-02-07T13:13:27Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">5859</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671261</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/06%20We%20Carry%20On.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>887</key>
+		<dict>
+			<key id="Track ID" type="integer">887</key>
+			<key id="Name" type="string">Deep Water</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">1525722</key>
+			<key id="Total Time" type="integer">99291</key>
+			<key id="Track Number" type="integer">7</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:18Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">122</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">8</key>
+			<key id="Play Date" type="integer">3382006615</key>
+			<key id="Play Date UTC" type="date">2011-03-03T13:16:55Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">1141</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671262</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/07%20Deep%20Water.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>889</key>
+		<dict>
+			<key id="Track ID" type="integer">889</key>
+			<key id="Name" type="string">Machine Gun</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">5342944</key>
+			<key id="Total Time" type="integer">292493</key>
+			<key id="Track Number" type="integer">8</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:20Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">146</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">9</key>
+			<key id="Play Date" type="integer">3383544984</key>
+			<key id="Play Date UTC" type="date">2011-03-21T08:36:24Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">4041</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671263</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/08%20Machine%20Gun.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>891</key>
+		<dict>
+			<key id="Track ID" type="integer">891</key>
+			<key id="Name" type="string">Small</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">8685667</key>
+			<key id="Total Time" type="integer">413440</key>
+			<key id="Track Number" type="integer">9</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:24Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">168</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">2</key>
+			<key id="Play Date" type="integer">3382009433</key>
+			<key id="Play Date UTC" type="date">2011-03-03T14:03:53Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2009-01-16T18:13:42Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">3599</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671264</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/09%20Small.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>893</key>
+		<dict>
+			<key id="Track ID" type="integer">893</key>
+			<key id="Name" type="string">Magic Doors</key>
+			<key id="Artist" type="string">Portishead</key>
+			<key id="Album" type="string">Third</key>
+			<key id="Genre" type="string">Trip-Hop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4083427</key>
+			<key id="Total Time" type="integer">218357</key>
+			<key id="Track Number" type="integer">10</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T12:53:25Z</key>
+			<key id="Date Added" type="date">2008-11-28T00:00:18Z</key>
+			<key id="Bit Rate" type="integer">149</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Play Count" type="integer">5</key>
+			<key id="Play Date" type="integer">3382077484</key>
+			<key id="Play Date UTC" type="date">2011-03-04T08:58:04Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2008-11-28T12:53:05Z</key>
+			<key id="Album Rating" type="integer">80</key>
+			<key>Album Rating Computed</key><true/>
+			<key id="Normalization" type="integer">4411</key>
+			<key id="Persistent ID" type="string">9A6BD747B8671265</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Portishead/Third/10%20Magic%20Doors.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1693</key>
+		<dict>
+			<key id="Track ID" type="integer">1693</key>
+			<key id="Name" type="string">All at Once </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3532777</key>
+			<key id="Total Time" type="integer">219167</key>
+			<key id="Track Number" type="integer">1</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:10Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3377859050</key>
+			<key id="Play Date UTC" type="date">2011-01-14T13:10:50Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2010-02-07T12:58:02Z</key>
+			<key id="Normalization" type="integer">493</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8625</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/01%20All%20at%20Once.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1695</key>
+		<dict>
+			<key id="Track ID" type="integer">1695</key>
+			<key id="Name" type="string">Sleep Through the Static </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3684496</key>
+			<key id="Total Time" type="integer">228649</key>
+			<key id="Track Number" type="integer">2</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:12Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3370187322</key>
+			<key id="Play Date UTC" type="date">2010-10-17T18:08:42Z</key>
+			<key id="Normalization" type="integer">497</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8628</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/02%20Sleep%20Through%20the%20Static.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1697</key>
+		<dict>
+			<key id="Track ID" type="integer">1697</key>
+			<key id="Name" type="string">Hope </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3638103</key>
+			<key id="Total Time" type="integer">225750</key>
+			<key id="Track Number" type="integer">3</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:13Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">6</key>
+			<key id="Play Date" type="integer">3381303643</key>
+			<key id="Play Date UTC" type="date">2011-02-23T10:00:43Z</key>
+			<key id="Normalization" type="integer">592</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8629</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/03%20Hope.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1699</key>
+		<dict>
+			<key id="Track ID" type="integer">1699</key>
+			<key id="Name" type="string">Angel </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">2059053</key>
+			<key id="Total Time" type="integer">127059</key>
+			<key id="Track Number" type="integer">4</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:14Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3383460398</key>
+			<key id="Play Date UTC" type="date">2011-03-20T09:06:38Z</key>
+			<key id="Normalization" type="integer">317</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862A</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/04%20Angel.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1701</key>
+		<dict>
+			<key id="Track ID" type="integer">1701</key>
+			<key id="Name" type="string">Enemy</key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3738831</key>
+			<key id="Total Time" type="integer">232045</key>
+			<key id="Track Number" type="integer">5</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:15Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3374527656</key>
+			<key id="Play Date UTC" type="date">2010-12-06T23:47:36Z</key>
+			<key id="Normalization" type="integer">404</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862B</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/05%20Enemy.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1703</key>
+		<dict>
+			<key id="Track ID" type="integer">1703</key>
+			<key id="Name" type="string">If I Had Eyes </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3897237</key>
+			<key id="Total Time" type="integer">241946</key>
+			<key id="Track Number" type="integer">6</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:17Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">3</key>
+			<key id="Play Date" type="integer">3359209080</key>
+			<key id="Play Date UTC" type="date">2010-06-12T16:38:00Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2009-01-12T17:26:42Z</key>
+			<key id="Normalization" type="integer">607</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862C</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/06%20If%20I%20Had%20Eyes.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1705</key>
+		<dict>
+			<key id="Track ID" type="integer">1705</key>
+			<key id="Name" type="string">Same Girl </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">2188620</key>
+			<key id="Total Time" type="integer">135157</key>
+			<key id="Track Number" type="integer">7</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:18Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">5</key>
+			<key id="Play Date" type="integer">3383073247</key>
+			<key id="Play Date UTC" type="date">2011-03-15T21:34:07Z</key>
+			<key id="Normalization" type="integer">406</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862D</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/07%20Same%20Girl.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1707</key>
+		<dict>
+			<key id="Track ID" type="integer">1707</key>
+			<key id="Name" type="string">What You Thought You Needed</key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">10629724</key>
+			<key id="Total Time" type="integer">331363</key>
+			<key id="Track Number" type="integer">8</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:20Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">256</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">7</key>
+			<key id="Play Date" type="integer">3383075207</key>
+			<key id="Play Date UTC" type="date">2011-03-15T22:06:47Z</key>
+			<key id="Normalization" type="integer">422</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862E</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/08%20What%20You%20Thought%20You%20Needed.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1709</key>
+		<dict>
+			<key id="Track ID" type="integer">1709</key>
+			<key id="Name" type="string">Adrift </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">3820333</key>
+			<key id="Total Time" type="integer">237139</key>
+			<key id="Track Number" type="integer">9</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:21Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">3</key>
+			<key id="Play Date" type="integer">3377095273</key>
+			<key id="Play Date UTC" type="date">2011-01-05T17:01:13Z</key>
+			<key id="Normalization" type="integer">351</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB862F</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/09%20Adrift.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1711</key>
+		<dict>
+			<key id="Track ID" type="integer">1711</key>
+			<key id="Name" type="string">Go on </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4462318</key>
+			<key id="Total Time" type="integer">277263</key>
+			<key id="Track Number" type="integer">10</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:23Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:41Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">8</key>
+			<key id="Play Date" type="integer">3383508408</key>
+			<key id="Play Date UTC" type="date">2011-03-20T22:26:48Z</key>
+			<key id="Skip Count" type="integer">2</key>
+			<key id="Skip Date" type="date">2011-01-14T12:59:37Z</key>
+			<key id="Normalization" type="integer">459</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8630</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/10%20Go%20on.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1713</key>
+		<dict>
+			<key id="Track ID" type="integer">1713</key>
+			<key id="Name" type="string">They Do They Don't </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4107053</key>
+			<key id="Total Time" type="integer">255059</key>
+			<key id="Track Number" type="integer">11</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:25Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:42Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">8</key>
+			<key id="Play Date" type="integer">3381864760</key>
+			<key id="Play Date UTC" type="date">2011-03-01T21:52:40Z</key>
+			<key id="Skip Count" type="integer">1</key>
+			<key id="Skip Date" type="date">2009-01-14T21:11:07Z</key>
+			<key id="Normalization" type="integer">699</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8631</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/11%20They%20Do%20They%20Don't.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1715</key>
+		<dict>
+			<key id="Track ID" type="integer">1715</key>
+			<key id="Name" type="string">While We Wait </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">1482687</key>
+			<key id="Total Time" type="integer">91036</key>
+			<key id="Track Number" type="integer">12</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:25Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:42Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">4</key>
+			<key id="Play Date" type="integer">3334940356</key>
+			<key id="Play Date UTC" type="date">2009-09-04T19:19:16Z</key>
+			<key id="Normalization" type="integer">241</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8632</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/12%20While%20We%20Wait.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1717</key>
+		<dict>
+			<key id="Track ID" type="integer">1717</key>
+			<key id="Name" type="string">Monsoon </key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4198168</key>
+			<key id="Total Time" type="integer">260754</key>
+			<key id="Track Number" type="integer">13</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:27Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:42Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">8</key>
+			<key id="Play Date" type="integer">3379342790</key>
+			<key id="Play Date UTC" type="date">2011-01-31T17:19:50Z</key>
+			<key id="Normalization" type="integer">488</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8633</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/13%20Monsoon.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+		<key>1719</key>
+		<dict>
+			<key id="Track ID" type="integer">1719</key>
+			<key id="Name" type="string">Losing Keys</key>
+			<key id="Artist" type="string">Jack Jonhson</key>
+			<key id="Album Artist" type="string">Jack Jonhson</key>
+			<key id="Composer" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Album" type="string">Sleep Through the Static</key>
+			<key id="Genre" type="string">Pop</key>
+			<key id="Kind" type="string">MPEG audio file</key>
+			<key id="Size" type="integer">4379144</key>
+			<key id="Total Time" type="integer">272065</key>
+			<key id="Track Number" type="integer">14</key>
+			<key id="Track Count" type="integer">14</key>
+			<key id="Year" type="integer">2008</key>
+			<key id="Date Modified" type="date">2011-03-18T13:04:28Z</key>
+			<key id="Date Added" type="date">2008-12-03T14:05:42Z</key>
+			<key id="Bit Rate" type="integer">128</key>
+			<key id="Sample Rate" type="integer">44100</key>
+			<key id="Comments" type="string">pandoworldvix.blogspot.com</key>
+			<key id="Play Count" type="integer">3</key>
+			<key id="Play Date" type="integer">3328144452</key>
+			<key id="Play Date UTC" type="date">2009-06-18T03:34:12Z</key>
+			<key id="Skip Count" type="integer">2</key>
+			<key id="Skip Date" type="date">2009-02-25T23:03:55Z</key>
+			<key id="Normalization" type="integer">411</key>
+			<key id="Artwork Count" type="integer">1</key>
+			<key id="Persistent ID" type="string">3229238BE0AB8634</key>
+			<key id="Track Type" type="string">File</key>
+			<key id="Location" type="string">file://localhost/Users/pregueiro/Music/iTunes/iTunes%20Music/Jack%20Jonhson/Sleep%20Through%20the%20Static/14%20Losing%20Keys.mp3</key>
+			<key id="File Folder Count" type="integer">4</key>
+			<key id="Library Folder Count" type="integer">1</key>
+		</dict>
+	</dict>
+</dict>
+</plist>

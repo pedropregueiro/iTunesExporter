@@ -23,10 +23,103 @@ sub new {
 	return $self;
 }
 
-sub getName {
-	my ( $self, $name) = @_;
-	$self->{_name} = $name if defined($name);
-	return $self->{_name};
+sub id {
+	my $self = shift;
+	if(@_) {
+		$self->{_id} = shift;
+		return $self;
+	} else {
+		return $self->{_id};
+	}
+}
+
+sub name {
+	my $self = shift;
+	if(@_) {
+		$self->{_name} = shift;
+		return $self;
+	} else {
+		return $self->{_name};
+	}
+}
+
+
+sub artist {
+	my $self = shift;
+	if(@_) {
+		$self->{_artist} = shift;
+		return $self;
+	} else {
+		return $self->{_artist};
+	}
+}
+
+
+sub album {
+	my $self = shift;
+	if(@_) {
+		$self->{_album} = shift;
+		return $self;
+	} else {
+		return $self->{_album};
+	}
+}
+
+sub genre {
+	my $self = shift;
+	if(@_) {
+		$self->{_genre} = shift;
+		return $self;
+	} else {
+		return $self->{_genre};
+	}
+}
+
+sub totalTime {
+	my $self = shift;
+	if(@_) {
+		$self->{_totalTime} = shift;
+		return $self;
+	} else {
+		return $self->{_totalTime};
+	}
+}
+
+sub trackNumber {
+	my $self = shift;
+	if(@_) {
+		$self->{_trackNumber} = shift;
+		return $self;
+	} else {
+		return $self->{_trackNumber};
+	}
+}
+
+sub playCount {
+	my $self = shift;
+	if(@_) {
+		$self->{_playCount} = shift;
+		return $self;
+	} else {
+		return $self->{_playCount};
+	}
+}
+
+sub rating {
+	my $self = shift;
+	if(@_) {
+		$self->{_rating} = shift;
+		return $self;
+	} else {
+		return $self->{_rating};
+	}
+}
+
+sub getAttributes(@_) {
+
+	my $self = shift;
+	return map { $self->{$_} . ";" } @_;
+
 }
 
 sub printTrackInfo{
@@ -43,5 +136,6 @@ sub printTrackInfo{
 	print "Rating :: $self->{_rating}\n";
 	print "---------------------\n";
 }
+
 
 1;

@@ -13,23 +13,49 @@ use Album;
 our @EXPORT = qw(convertXML printHash createHash);
 our %hashMap = ();
 
+## teste printTracks...
+my $testeInput = "../input/music.xml";
+my @params = ("Artist", "Album");
+printTracks($testeInput, @params);
+
+sub printTracks {
+
+	my $input = shift;
+	my @params = @_;
+
+	convertXML($input,"teste.xml");
+	my @tracks = fillList("teste.xml");
+	foreach my $param (@params) {
+		print "PARAM :: $param\n";
+	}
+	
+	foreach my $track (@tracks) {
+		#print "$track->{_artist}\n";
+		
+		my @results = $track->getAttributes("_name", "_artist");
+		print "_name\t\t_artist\n";
+		foreach my $result (@results) {
+			#print $result;
+			#print split(";", $result);
+			foreach my $value (split(";", $result)) {
+				print $value . " -- ";
+			}
+				
+		}
+		print "\n";
+		#print $track->id() . "\n";
+
+	}
+
+	#unlink("teste.xml");
+}
+
+
 # sort method - alphabetically
 sub artistNameAscends {
 	$hashMap{$a} cmp $hashMap{$b};
 }
 
-sub convertXML {
-	my $input = shift;
-	my $output = shift;
-	open IN, "<", $input or die $!;
-	open OUT, ">", $output or die $!;
-	while(<IN>) {
-		s/<key>(.+?)<\/key><(.+?)>(.+?)<\/.+/<key id="$1" type="$2">$3<\/key>/g;
-		print OUT $_;
-	}
-	close IN;
-	close OUT;
-}
 
 sub printHash {
 	my $whole = "";
@@ -40,10 +66,22 @@ sub printHash {
 	return $whole;
 }
 
+
 sub findAttribute {
 	my $dict = shift;
 	my $attrib = shift;
 	return $dict->find('key[@id="' . $attrib . '"]')->string_value;
+}
+
+sub fillList {
+	my @list=();
+	my $input = shift;
+	my $xp = XML::XPath->new(filename => $input);
+	#foreach track
+	foreach my $dict ($xp->find('/plist/dict/dict/dict')->get_nodelist) {	
+		push(@list, fillTrack($dict));
+	}
+	return @list;
 }
 
 sub fillTrack {
@@ -68,18 +106,7 @@ sub fillTrack {
 	return $track;
 }
 
-sub fillList {
-	my @list=();
-	my $input = shift;
-	#my $input = "output/converted.xml";
-	my $xp = XML::XPath->new(filename => $input);
 
-	#foreach track
-	foreach my $dict ($xp->find('/plist/dict/dict/dict')->get_nodelist) {	
-		push(@list, fillTrack($dict));
-	}
-	return @list;
-}
 
 sub createHash {
 	my $input = shift;
@@ -90,6 +117,19 @@ sub createHash {
 		$hashMap{$hashKey} = $hashValue;
 	}
 	return %hashMap;
+}
+
+sub convertXML {
+	my $input = shift;
+	my $output = shift;
+	open IN, "<", $input or die $!;
+	open OUT, ">", $output or die $!;
+	while(<IN>) {
+		s/<key>(.+?)<\/key><(.+?)>(.+?)<\/.+/<key id="$1" type="$2">$3<\/key>/g;
+		print OUT $_;
+	}
+	close IN;
+	close OUT;
 }
 
 1;
